@@ -10,4 +10,4 @@ This script only requires NodeJS (tested with v0.20.0).
 
 - Clone this repository
 - Copy or move relationships.tsv file to the root of the repo
-- Launch the scrit : node 
+- Launch the scrit : node ./pharmgkb_relations.js
